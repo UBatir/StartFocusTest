@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FocusStart</string>
+    <string name="category_ru">Выберите валюту</string>
+    <string name="not_selected_ru">Не выбрано</string>
+    <string name="rub">RUB</string>
+    <string name="refresh">Обновить</string>
+</resources>
