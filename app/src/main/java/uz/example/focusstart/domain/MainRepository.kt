@@ -1,4 +1,4 @@
-package uz.example.focusstart.data.domain
+package uz.example.focusstart.domain
 
 import com.google.gson.Gson
 import kotlinx.coroutines.Dispatchers

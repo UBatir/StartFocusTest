@@ -8,7 +8,7 @@ import kotlinx.coroutines.flow.catch
 import kotlinx.coroutines.flow.flowOn
 import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
-import uz.example.focusstart.data.domain.MainRepository
+import uz.example.focusstart.domain.MainRepository
 import uz.example.focusstart.data.model.Currency
 import uz.example.focusstart.data.model.Data
 import uz.example.focusstart.data.model.Valute

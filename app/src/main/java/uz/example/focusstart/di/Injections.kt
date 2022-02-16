@@ -9,7 +9,7 @@ import org.koin.dsl.module
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import uz.example.focusstart.BuildConfig.BASE_URL
-import uz.example.focusstart.data.domain.MainRepository
+import uz.example.focusstart.domain.MainRepository
 import uz.example.focusstart.data.remote.ApiInterface
 import uz.example.focusstart.ui.MainAdapter
 import uz.example.focusstart.ui.MainViewModel
